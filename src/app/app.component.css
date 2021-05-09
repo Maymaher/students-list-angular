@@ -1,0 +1,9 @@
+.navbar-brand,
+.navbar-brand:visited,
+.navbar-brand:active {
+  /* color: #f0ebcc; */
+  text-decoration: none;
+  font-size: 2rem;
+}
+
+
